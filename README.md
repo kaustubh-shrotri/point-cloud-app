@@ -1,5 +1,13 @@
 # point-cloud-app
 A software application for loading a point cloud and performing measurements.
+
+# Requirements
+- open3d
+- numpy
+- simplejson
+- xlsxwriter
+- os
+- tkinter
 ______________________________________________________________________________________
 
 # Application usage
